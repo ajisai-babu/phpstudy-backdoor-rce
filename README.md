@@ -50,6 +50,7 @@ python phpstudy_rce.py -u http://xxxx/ -p socks5://127.0.0.1:7890
 python phpstudy_rce.py -u http://xxxx/ --shell -p socks5://127.0.0.1:7890
 python phpstudy_rce.py -u http://xxxx/ --webshell -p socks5://127.0.0.1:7890
 ```
+
 - 参考链接
   - https://github.com/theLSA/phpstudy-backdoor-rce
   - https://blog.csdn.net/qq_45521281/article/details/105926151

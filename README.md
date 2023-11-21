@@ -58,3 +58,9 @@ python phpstudy_rce.py -u http://xxxx/ --webshell -p socks5://127.0.0.1:7890
 - 使用须知
   - 本工具仅面向合法授权的企业安全建设行为，在使用本工具进行检测时，您应确保该行为符合当地的法律法规，并且已经取得了足够的授权。
   - 如您在使用本工具的过程中存在任何非法行为，您需自行承担相应后果。
+ 
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/whitzard-ai/jade-db.svg)](https://starchart.cc/whitzard-ai/jade-db)
+
